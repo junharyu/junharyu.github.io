@@ -18,7 +18,7 @@ main:
     image: ./assets/img/metavrain.jpg
 
   - title: "DSPU: A 281.6mW Real-Time Depth Signal Processing Unit for Deep Learning-Based Dense RGB-D Data Acquisition with Depth Fusion and 3D Bounding Box Extraction in Mobile Platforms"
-    authors: Dongseok Im, Gwangtae Park, Zhiyong Li, <u><strong>Junha Ryu</u></strong>, Sanghoon Kang, Donghyeon Han, Jinsu Lee, Hoi-Jun Yoo
+    authors: Dongseok Im, Gwangtae Park, Zhiyong Li, <u><strong>Junha Ryu</strong></u>, Sanghoon Kang, Donghyeon Han, Jinsu Lee, and Hoi-Jun Yoo
     conference_short: ISSCC'22
     conference: IEEE International Conference on Solid-State Circuits (ISSCC), Feb. 2022
     pdf: https://ieeexplore.ieee.org/document/9731699
