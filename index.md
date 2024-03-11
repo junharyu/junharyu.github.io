@@ -15,20 +15,8 @@ My current research interests include energy-efficient System-on-Chip design, es
 - **AR/VR System-on-Chip:** IEDM'21
 - **DNN Accelerator:** JSSC'21, HPCA'23
 
+{% include_relative _includes/publications.md %}  
 
-{% include_relative _includes/publications.md %}
-
-  
 {% include_relative _includes/invited_talks.md %}  
-  
-
-
-
-
-
-
-
-
-       
-{% include_relative _includes/education.md %}
-
+         
+{% include_relative _includes/education.md %}  
