@@ -1,7 +1,7 @@
 # Basic Information 
 title: Junha Ryu
 position: Ph.D. Candidate
-affiliation: Korea Advanced Institute of Science and Technology (KAIST)
+affiliation: KAIST
 email: junha.ryu@kaist.ac.kr
 
 # Search Engine Optimization (SEO)
@@ -32,7 +32,7 @@ auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
