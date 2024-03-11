@@ -10,7 +10,7 @@ main:
     notes:
 
   - title: "MetaVRain: A 133mW Real-Time Hyper-Realistic 3D-NeRF Processor with 1D-2D Hybrid-Neural Engines for Metaverse on Mobile Devices"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    authors: Donghyeon Han, <strong>Junha Ryu</strong>, Sangyeob Kim, Sangjin Kim, and Hoi-Jun Yoo
     conference_short: ISSCC'23
     conference: IEEE International Conference on Solid-State Circuits (ISSCC), Feb. 2023
     pdf: https://ieeexplore.ieee.org/document/10067447
