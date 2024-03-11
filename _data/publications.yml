@@ -1,7 +1,7 @@
 main:
 
   - title: "NeuGPU: A 18.5 mJ/Iter Neural-Graphics Processing Unit for Instant-Modeling and Real-Time Rendering with Segmented-Hashing Architecture"
-    authors: __<strong>Junha Ryu</strong>__, Hankyul Kwon, Wonhoon Park, Zhiyong Li, Beomseok Kwon, Donghyeon Han, Dongseok Im, Sangyeob Kim, Hyungnam Joo, and Hoi-Jun Yoo
+    authors: <u><strong>Junha Ryu</strong></u>, Hankyul Kwon, Wonhoon Park, Zhiyong Li, Beomseok Kwon, Donghyeon Han, Dongseok Im, Sangyeob Kim, Hyungnam Joo, and Hoi-Jun Yoo
     conference_short: ISSCC'24
     conference: IEEE International Conference on Solid-State Circuits (ISSCC), Feb. 2024
     pdf:
@@ -10,7 +10,7 @@ main:
     notes:
 
   - title: "MetaVRain: A 133mW Real-Time Hyper-Realistic 3D-NeRF Processor with 1D-2D Hybrid-Neural Engines for Metaverse on Mobile Devices"
-    authors: Donghyeon Han, __<strong>Junha Ryu</strong>__, Sangyeob Kim, Sangjin Kim, and Hoi-Jun Yoo
+    authors: Donghyeon Han, <u><strong>Junha Ryu</strong></u>, Sangyeob Kim, Sangjin Kim, and Hoi-Jun Yoo
     conference_short: ISSCC'23
     conference: IEEE International Conference on Solid-State Circuits (ISSCC), Feb. 2023
     pdf: https://ieeexplore.ieee.org/document/10067447
