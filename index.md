@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm a Ph.D. candidate at [`Semiconductor System Lab (SSL)`](http://ssl.kaist.ac.kr) advised by [`Prof. Hoi-Jun Yoo`](http://ssl.kaist.ac.kr/Professor.php) at [`KAIST`](https://kaist.ac.kr). I received the B.S. and M.S. degrees from the School of EE at KAIST in 2020 and 2022, respectively. 
+My current research interests include energy-efficient System-on-Chip design, especially focused on AI-powered AR/VR and 3D vision systems. Over the past 4 years, I have participated in the design of 3 silicon chips related to artificial intelligence.
+
 
 ## Research Interests
 
