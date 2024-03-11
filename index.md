@@ -10,7 +10,7 @@ I received the B.S. and M.S. degrees from the School of Electrical Engineering a
 <br/>
 
 ## Research Interests
-My current research interests include energy-efficient System-on-Chip design, especially focused on AI-powered AR/VR and 3D vision systems. Over the past 4 years, I have participated in the design of 3 silicon chips related to artificial intelligence.
+My current research interests include <u>**energy-efficient System-on-Chip design**</u>, especially focused on <u>**AI-powered AR/VR and 3D vision systems**</u>. Over the past 4 years, I have participated in the design of 3 silicon chips related to artificial intelligence.
 - **Neural Graphics Acceleration:** ISSCC'23, ASSCC'23, ISSCC'24
 - **3D Vision System:** ISSCC'22
 - **AR/VR System-on-Chip:** IEDM'21
