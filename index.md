@@ -20,7 +20,15 @@ My current research interests include energy-efficient System-on-Chip design, es
 
   
 {% include_relative _includes/invited_talks.md %}  
+  
 
 
+
+
+
+
+
+
+       
 {% include_relative _includes/education.md %}
 
