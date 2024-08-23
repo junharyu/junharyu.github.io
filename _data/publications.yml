@@ -4,10 +4,9 @@ main:
     authors: <u><strong>Junha Ryu</strong></u>, Hankyul Kwon, Wonhoon Park, Zhiyong Li, Beomseok Kwon, Donghyeon Han, Dongseok Im, Sangyeob Kim, Hyungnam Joo, and Hoi-Jun Yoo
     conference_short: ISSCC'24
     conference: IEEE International Conference on Solid-State Circuits (ISSCC), Feb. 2024
-    pdf:
-    bibtex:
+    pdf: https://ieeexplore.ieee.org/document/10454276
+    bibtex: ./assets/bib/neugpu.bib
     image: ./assets/img/neugpu.png
-    notes:
 
   - title: "MetaVRain: A 133mW Real-Time Hyper-Realistic 3D-NeRF Processor with 1D-2D Hybrid-Neural Engines for Metaverse on Mobile Devices"
     authors: Donghyeon Han, <u><strong>Junha Ryu</strong></u>, Sangyeob Kim, Sangjin Kim, and Hoi-Jun Yoo
