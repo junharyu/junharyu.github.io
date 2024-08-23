@@ -6,7 +6,7 @@ main:
     conference: IEEE International Conference on Solid-State Circuits (ISSCC), Feb. 2024
     pdf: https://ieeexplore.ieee.org/document/10454276
     bibtex: ./assets/bib/neugpu.bib
-    image: ./assets/img/neugpu_bg.png
+    image: ./assets/img/neugpu.png
 
   - title: "MetaVRain: A 133mW Real-Time Hyper-Realistic 3D-NeRF Processor with 1D-2D Hybrid-Neural Engines for Metaverse on Mobile Devices"
     authors: Donghyeon Han, <u><strong>Junha Ryu</strong></u>, Sangyeob Kim, Sangjin Kim, and Hoi-Jun Yoo
@@ -14,7 +14,7 @@ main:
     conference: IEEE International Conference on Solid-State Circuits (ISSCC), Feb. 2023
     pdf: https://ieeexplore.ieee.org/document/10067447
     bibtex: ./assets/bib/metavrain.bib
-    image: ./assets/img/metavrain_bg.png
+    image: ./assets/img/metavrain.jpg
 
   - title: "DSPU: A 281.6mW Real-Time Depth Signal Processing Unit for Deep Learning-Based Dense RGB-D Data Acquisition with Depth Fusion and 3D Bounding Box Extraction in Mobile Platforms"
     authors: Dongseok Im, Gwangtae Park, Zhiyong Li, <u><strong>Junha Ryu</strong></u>, Sanghoon Kang, Donghyeon Han, Jinsu Lee, and Hoi-Jun Yoo
@@ -22,5 +22,5 @@ main:
     conference: IEEE International Conference on Solid-State Circuits (ISSCC), Feb. 2022
     pdf: https://ieeexplore.ieee.org/document/9731699
     bibtex: ./assets/bib/dspu.bib
-    image: ./assets/img/dspu_bg.png
+    image: ./assets/img/dspu.png
     
