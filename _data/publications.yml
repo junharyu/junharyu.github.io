@@ -14,7 +14,7 @@ main:
     conference: IEEE International Conference on Solid-State Circuits (ISSCC), Feb. 2023
     pdf: https://ieeexplore.ieee.org/document/10067447
     bibtex: ./assets/bib/metavrain.bib
-    image: ./assets/img/metavrain_bg.jpg
+    image: ./assets/img/metavrain_bg.png
 
   - title: "DSPU: A 281.6mW Real-Time Depth Signal Processing Unit for Deep Learning-Based Dense RGB-D Data Acquisition with Depth Fusion and 3D Bounding Box Extraction in Mobile Platforms"
     authors: Dongseok Im, Gwangtae Park, Zhiyong Li, <u><strong>Junha Ryu</strong></u>, Sanghoon Kang, Donghyeon Han, Jinsu Lee, and Hoi-Jun Yoo
